@@ -1,7 +1,11 @@
-.my-bg{background-color:#BEBEBE}
+.my-bg{background-color:#4F4F4F}
 
 h1{
 font-family: 'DM Serif Display', serif;
+}
+
+h3{
+font-family: 'Libre Baskerville', serif;
 }
 
 h4{
@@ -14,8 +18,4 @@ font-family: 'Nanum Myeongjo', serif;
 
 h6{
 font-family: 'Hind Madurai', sans-serif;
-}
-
-h3{
-font-family: 'Libre Baskerville', serif;
 }
